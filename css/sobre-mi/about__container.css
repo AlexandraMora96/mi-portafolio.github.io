@@ -1,0 +1,24 @@
+.about{
+    background: #EAF2FD;
+    margin: 10px 0;
+    font-family: Raleway;
+}
+.about__title{
+    text-align: center;
+    font-size: 52px;
+    font-weight: bold;
+    color: #464646;
+    padding: 1.5rem;
+}
+
+.about__paragraph{
+   
+    text-align: justify;
+    font-size: 20px;
+    padding: 1.5rem;
+    
+}
+
+strong{
+    font-weight: bold;
+}

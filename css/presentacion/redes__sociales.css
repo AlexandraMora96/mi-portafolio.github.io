@@ -1,0 +1,19 @@
+.title__network{
+    display:flex;
+    font-size: 20px;
+    justify-items: start;
+    padding-left: 1.5rem;
+    padding: 1.5rem;
+}
+
+.red__social{
+    vertical-align: middle;
+    padding-right: 1.5rem;
+}
+
+.red__social:hover{
+    color: #80CBF5;
+    text-decoration: underline ;
+    font-size: 25px;
+}
+

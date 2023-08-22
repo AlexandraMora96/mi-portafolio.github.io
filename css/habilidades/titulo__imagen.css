@@ -1,0 +1,13 @@
+.titulo__imagen{
+    display: flex;
+    text-align: center;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.imagen__habilidades{
+    width: 55px;
+    height: 55px;
+    margin: 10px 0;
+
+}

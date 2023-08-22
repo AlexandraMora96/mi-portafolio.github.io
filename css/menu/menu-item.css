@@ -1,0 +1,10 @@
+.menu__list__item{
+    padding: 1.5rem;
+   
+   
+
+}
+
+.menu__list__item:hover {
+    background: #80CBF5;
+}

@@ -1,0 +1,41 @@
+.formcontato__form{
+    margin: 40px 0;
+
+
+}
+
+.formcontato__input{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    
+}
+
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #B06AB3;
+    padding-top: 20px;
+}
+
+
+.formcontato__botao{
+    width: 20%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: #9BD5F5;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+
+}
+
+.formcontato__botao:hover{
+    background: #61C5FC;
+    
+}

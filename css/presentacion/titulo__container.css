@@ -1,0 +1,20 @@
+.titulo__container{
+    display: flex;
+    flex-direction: column;
+    font-family: Raleway;
+
+}
+
+.title__bio{
+    text-align: center;
+    font-size: 52px;
+    font-weight: bold;
+    color: #464646;
+    padding: 1.5rem;
+}
+
+.title__subsection{
+    text-align: justify;
+    font-size: 20px;
+    padding: 1.5rem;
+}
